@@ -1,0 +1,25 @@
+solstice-bot/
+├── src/
+│   ├── commands/
+│   │   ├── createWallet.js
+│   │   ├── connectWallet.js
+│   │   ├── buySOL.js
+│   │   ├── swapTokens.js
+│   │   ├── setDCA.js
+│   │   └── alerts.js
+│   ├── services/
+│   │   ├── telegram.js
+│   │   ├── solana.js
+│   │   ├── dexAggregator.js
+│   │   ├── fiatOnRamp.js
+│   │   └── notifications.js
+│   ├── utils/
+│   │   ├── logger.js
+│   │   └── validators.js
+│   ├── config/
+│   │   └── index.js
+│   └── index.js
+├── .env
+├── .gitignore
+├── package.json
+└── README.md

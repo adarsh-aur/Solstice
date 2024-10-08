@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "apis": [
+    {
+      "identifier": "moonpaydocs",
+      "source": "@moonpaydocs/v2.0#abhh8w3elnue2fyj",
+      "integrity": "sha512-HyCaUgQPkrzqLr8NdDp3MF2fTVy8FKqtOK3shEWSJ5TaoA2tYlIwaQ/r02xJozmt7vFUrOBrz4b/zm5tIOPvXg==",
+      "installerVersion": "6.1.2"
+    }
+  ]
+}
